@@ -1,9 +1,9 @@
-package lesson04;
+package lesson;
 
 import org.testng.annotations.Test;
 import static org.testng.Assert.*;
 
-public class SayWorldTest {
+public class FictionTest {
 
     @Test
     public void methodReturnsWorld() {

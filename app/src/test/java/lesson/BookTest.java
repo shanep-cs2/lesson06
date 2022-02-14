@@ -1,14 +1,16 @@
-package lesson04;
+package lesson;
 
 import org.testng.annotations.Test;
+
+import lesson.Book;
+
 import static org.testng.Assert.*;
 
-public class SayHelloTest {
+public class BookTest {
 
     @Test
     public void methodReturnsHello() {
         // Example for testing the SayHello class!
-        SayHello hello = new SayHello();
-        assertEquals(hello.SaySomething(), "Hello");
+        Book hello = new Book();
     }   
 }
