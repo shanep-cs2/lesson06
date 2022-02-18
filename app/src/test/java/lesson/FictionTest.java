@@ -6,8 +6,8 @@ import static org.testng.Assert.*;
 public class FictionTest {
 
     @Test
-    public void methodReturnsWorld() {
-        assert(false); //Remove this!!
+    public void testSomething() {
+       
     }
     
 }
