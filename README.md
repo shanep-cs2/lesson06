@@ -8,6 +8,10 @@ books such as the **title** and **author** while our  derived class will add in 
 properties that are specific to that type of book. There is also a class named App.java that has
 our main method that we can use to run any manual tests.
 
+## Videos
+
+- [Lab Overview]()
+
 ## Learning Objectives
 
 - Create a derived class from a base class
