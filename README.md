@@ -12,6 +12,7 @@ our main method that we can use to run any manual tests.
 
 - [Lab Overview]()
 - [Class Coding standards](https://shanep-cs2.github.io/docs/coding-standards.html)
+- [Cloning and Submitting](https://shanep-cs2.github.io/docs/github.html)
 
 ## Learning Objectives
 
