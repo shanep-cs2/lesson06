@@ -5,9 +5,5 @@ import static org.testng.Assert.*;
 
 public class FictionTest {
 
-    @Test
-    public void testSomething() {
-       
-    }
     
 }
