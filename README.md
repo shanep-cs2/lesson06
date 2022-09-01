@@ -4,7 +4,7 @@
 
 In this lab we are going to create a derived class and override some methods. Our base class will be
 Book.java and our derived class will be Fiction.java. Our Book class will define the methods that
-are common to all books but will just output the sting "none" whenever the methods are called. In
+are common to all books but will just output the string "none" whenever the methods are called. In
 your derived class Fiction you will override those methods and return the correct data.
 
 ## Important links
